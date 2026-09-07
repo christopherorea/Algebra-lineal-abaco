@@ -1,0 +1,6 @@
+{
+  "name": "Simulador Suanpan 2/5 - Álgebra Matricial Analógica",
+  "description": "Simulador de hardware analógico del ábaco chino tradicional Suanpan (2/5) para resolución paso a paso de sistemas lineales 2x2 y 3x3 mediante eliminación de Gauss analógica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
